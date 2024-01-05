@@ -2,6 +2,10 @@
 
 <a href="https://www.producthunt.com/posts/quasar-minimalist-design?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-quasar&#0045;minimalist&#0045;design" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=404673&theme=light" alt="Quasar&#0032;Minimalist&#0032;Design - Quasar&#0032;minimal&#0032;premium&#0032;admin&#0032;template&#0032;with&#0032;minimalist&#0032;design | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 
+
+## Proudly serving over 5+ happy customers and counting! 🚀🚀🚀
+
+
 In the world of web design and development, a minimalist approach has gained a lot of popularity in recent years.
 Minimalist design focuses on creating an aesthetic that is clean, uncluttered, and simple. This design philosophy is all
 about making the most of the essentials and doing away with the superfluous. Quasar Minimalist Design, an admin
