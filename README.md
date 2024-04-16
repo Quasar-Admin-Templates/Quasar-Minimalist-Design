@@ -6,6 +6,11 @@
 ## Proudly serving over 7+ happy customers and counting! 🚀🚀🚀
 
 
+<p align="center">
+    <img src="assets/SEO.png" alt="Quasar Minimalist Design" width="500" style="border-radius: 12px"/>
+</p>
+
+
 In the world of web design and development, a minimalist approach has gained a lot of popularity in recent years.
 Minimalist design focuses on creating an aesthetic that is clean, uncluttered, and simple. This design philosophy is all
 about making the most of the essentials and doing away with the superfluous. Quasar Minimalist Design, an admin
