@@ -24,6 +24,10 @@ Check out the website at https://quasar-minimalist-design.netlify.app
 
 ## If you're interested in purchasing this template, please visit my sponsorship page(Sponsor Me). To gain access to the code, you'll need to [sponsor me](https://github.com/sponsors/pratik227) for $49 per month (one-time payment).
 
+## Paypal
+
+PayPal - pratikboss986@gmail.com
+
 ## Dashboard
 
 ![Alt text](assets/Dashboard.png?raw=true "Screenshot")
