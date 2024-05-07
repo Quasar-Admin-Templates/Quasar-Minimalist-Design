@@ -69,3 +69,10 @@ If you are looking for an admin template that is both user-friendly and efficien
 definitely worth considering.
 
 
+## Changelog
+
+## 7.05.2024
+
+1. Added new Dashboard
+2. New page for recent Orders
+
