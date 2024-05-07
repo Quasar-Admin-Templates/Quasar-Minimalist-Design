@@ -28,6 +28,14 @@ Check out the website at https://quasar-minimalist-design.netlify.app
 
 ![Alt text](assets/Dashboard.png?raw=true "Screenshot")
 
+## Dashboard 2
+
+![Alt text](assets/Dashboard1.png?raw=true "Screenshot")
+
+## Orders 
+
+![Alt text](assets/Orders.png?raw=true "Screenshot")
+
 ## Customers
 
 ![Alt text](assets/Customers.png?raw=true "Screenshot")
