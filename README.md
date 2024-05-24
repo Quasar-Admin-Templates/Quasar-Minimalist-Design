@@ -3,6 +3,8 @@
 <a href="https://www.producthunt.com/posts/quasar-minimalist-design?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-quasar&#0045;minimalist&#0045;design" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=404673&theme=light" alt="Quasar&#0032;Minimalist&#0032;Design - Quasar&#0032;minimal&#0032;premium&#0032;admin&#0032;template&#0032;with&#0032;minimalist&#0032;design | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 
 
+## Now also supports Vite 5
+
 ## Proudly serving over 7+ happy customers and counting! 🚀🚀🚀
 
 
@@ -74,6 +76,11 @@ definitely worth considering.
 
 
 ## Changelog
+
+## 24.05.2024
+
+1. Big Major update vite 5 support is added
+2. i18n also added for few pages
 
 ## 7.05.2024
 
