@@ -5,7 +5,7 @@
 
 ## Now also supports Vite 5
 
-## Proudly serving over 8+ happy customers and counting! 🚀🚀🚀
+## Proudly serving over 9+ happy customers and counting! 🚀🚀🚀
 
 
 <p align="center">
